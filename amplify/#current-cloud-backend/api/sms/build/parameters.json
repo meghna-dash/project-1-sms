@@ -1,0 +1,6 @@
+{
+    "AppSyncApiName": "sms",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "S3DeploymentBucket": "sms-20191017002425-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/4efd5bf5ed07fe2a7a5af5c093dcec12bb8f0de4"
+}

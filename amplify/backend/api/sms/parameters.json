@@ -1,0 +1,4 @@
+{
+    "AppSyncApiName": "sms",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST"
+}
